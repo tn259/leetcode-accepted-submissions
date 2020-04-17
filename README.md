@@ -9,3 +9,4 @@
 - https://leetcode.com/problems/roman-to-integer -> https://leetcode.com/submissions/detail/317866636/
 - https://leetcode.com/problems/palindrome-number -> https://leetcode.com/submissions/detail/317793256/
 - https://leetcode.com/problems/reverse-integer -> https://leetcode.com/submissions/detail/317791133/
+- https://leetcode.com/problems/two-sum -> https://leetcode.com/submissions/detail/317780427/
