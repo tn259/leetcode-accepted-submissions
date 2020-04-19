@@ -14,3 +14,4 @@
 - https://leetcode.com/problems/count-primes -> https://leetcode.com/submissions/detail/327100541/
 - https://leetcode.com/problems/count-and-say -> https://leetcode.com/submissions/detail/327330175/
 - https://leetcode.com/problems/excel-sheet-column-number -> https://leetcode.com/submissions/detail/327341699/
+- https://leetcode.com/problems/happy-number -> https://leetcode.com/submissions/detail/327359200/
