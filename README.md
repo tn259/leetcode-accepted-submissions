@@ -11,3 +11,4 @@
 - https://leetcode.com/problems/reverse-integer -> https://leetcode.com/submissions/detail/317791133/
 - https://leetcode.com/problems/two-sum -> https://leetcode.com/submissions/detail/317780427/
 - https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree -> https://leetcode.com/submissions/detail/316552517/
+- https://leetcode.com/problems/count-primes -> https://leetcode.com/submissions/detail/327100541/
