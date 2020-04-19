@@ -13,3 +13,4 @@
 - https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree -> https://leetcode.com/submissions/detail/316552517/
 - https://leetcode.com/problems/count-primes -> https://leetcode.com/submissions/detail/327100541/
 - https://leetcode.com/problems/count-and-say -> https://leetcode.com/submissions/detail/327330175/
+- https://leetcode.com/problems/excel-sheet-column-number -> https://leetcode.com/submissions/detail/327341699/
