@@ -15,4 +15,3 @@
 - https://leetcode.com/problems/count-and-say -> https://leetcode.com/submissions/detail/327330175/
 - https://leetcode.com/problems/excel-sheet-column-number -> https://leetcode.com/submissions/detail/327341699/
 - https://leetcode.com/problems/happy-number -> https://leetcode.com/submissions/detail/327359200/
-- https://leetcode.com/problems/leetcode.com -> https://leetcode.com/submissions/detail/458364871/
