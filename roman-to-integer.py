@@ -18,13 +18,20 @@ class Solution:
         str_len = len(s)
         res = 0
         i = 0
+        prev_element = 1000 # Greatest is 'M'
         while i < str_len:
             next_two = s[i:i+2]
             if next_two in values.keys():
-                res += values[next_two]
+                element = values[next_two]
+                if element <= prev_element:
+                    res += element
+                    element = prev_element
                 i += 2
             else:
-                res += values[s[i]]
+                element = values[s[i]]
+                if element <= prev_element:
+                    res += element
+                    element = prev_element
                 i += 1
                 
         return res
