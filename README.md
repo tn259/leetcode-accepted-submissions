@@ -17,3 +17,4 @@
 - https://leetcode.com/problems/happy-number -> https://leetcode.com/submissions/detail/327359200/
 
 - https://leetcode.com/problems/super-ugly-number -> https://leetcode.com/submissions/detail/458364871/
+- https://leetcode.com/problems/rectangle-area -> https://leetcode.com/submissions/detail/457580471/
