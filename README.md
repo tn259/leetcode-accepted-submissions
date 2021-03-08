@@ -22,3 +22,4 @@
 - https://leetcode.com/problems/filling-bookcase-shelves -> https://leetcode.com/submissions/detail/456771877/
 - https://leetcode.com/problems/design-circular-queue -> https://leetcode.com/submissions/detail/454188050/
 - https://leetcode.com/problems/maximum-sum-circular-subarray -> https://leetcode.com/submissions/detail/453611395/
+- https://leetcode.com/problems/minimum-cost-for-tickets -> https://leetcode.com/submissions/detail/451530557/
