@@ -23,3 +23,4 @@
 - https://leetcode.com/problems/design-circular-queue -> https://leetcode.com/submissions/detail/454188050/
 - https://leetcode.com/problems/maximum-sum-circular-subarray -> https://leetcode.com/submissions/detail/453611395/
 - https://leetcode.com/problems/minimum-cost-for-tickets -> https://leetcode.com/submissions/detail/451530557/
+- https://leetcode.com/problems/boats-to-save-people -> https://leetcode.com/submissions/detail/450626910/
