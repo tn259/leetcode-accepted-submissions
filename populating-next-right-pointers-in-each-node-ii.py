@@ -26,19 +26,12 @@ class Solution:
         while levelHead.next != None:
             node = levelHead.next
             needle = Node(-1)
-            needleSet = False
             # thread through needle
             while node:
                 if node.left:
-                    if not needleSet:
-                        levelHead.next = node
-                        needleSet = True
                     needle.next = node.left
                     needle = needle.next
                 if node.right:
-                    if not needleSet:
-                        levelHead.next = node
-                        needleSet = True
                     needle.next = node.right
                     needle = needle.next
                 node = node.next
